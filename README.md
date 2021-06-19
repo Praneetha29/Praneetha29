@@ -27,3 +27,4 @@
 	<a href="https://www.instagram.com/praneetha._._29/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/></a>
 
 
+<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
