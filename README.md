@@ -1,5 +1,5 @@
 ### Heyo, I am Praneetha
-<img align="right" height="180px" alt="png" src="https://drive.google.com/file/d/1HJ79GuaxER4wbXzWtwvaMzckWJyja4ri/view?usp=sharing" />
+
 
 
 
