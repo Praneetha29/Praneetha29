@@ -1,5 +1,5 @@
 ### Heyo, I am Praneetha
-
+<img align="right" height="180px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
 
 
 
