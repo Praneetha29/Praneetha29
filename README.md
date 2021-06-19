@@ -1,5 +1,7 @@
 <h1 align="center">  Bonjour!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1616468410/23789/hello-kitty.gif?1616468410" width="35"> <br>Praneetha Here </h1>
-##### I'm a Student and  an Aspiring Developer!!
+<img align="right" height="450px" alt="GIF" src="https://www.linkpicture.com/q/ef164cd139cf9a44b1c6a1a2e9f89c48.jpeg" padding="5px" />
+
+## I'm a Student and  an Aspiring Developer!!
 
 
 
