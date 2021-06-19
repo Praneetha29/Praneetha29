@@ -12,7 +12,7 @@
 - 📫 How to reach me: praneetha2829@gmail.com
 - 😄 Pronouns: She/Her
 
-- 
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/midatana-sai-praneetha-9a587420b/) 
 
