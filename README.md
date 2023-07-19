@@ -2,14 +2,16 @@
 
 I'm Sai Praneetha, a final year student pursuing Electronics and Instrumentation Engineering from NIT Rourkela, India. I have a passion for developing user-focused projects and a knack for creating captivating designs.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer+with+Melodic+Touch;UI/UX+Designer+with+a+Smiley+Touch;Presenter+with+a+Captivating+Touch)](https://git.io/typing-svg)
+> The web is a powerful tool, and I'm passionate about using it to create websites that make a difference.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer+with+a+Creative+Flair;UI/UX+Designer+with+a+Human+Touch;Presenter+with+a+Compelling+Passion)](https://git.io/typing-svg)
 
 
 
 
 - 🔭 I’m actively participating in <strong>hackathons</strong>
 - 💖 I’m currently in love with creating <strong>pitch decks</strong>
-- 👯 I’m looking to collaborate on <strong>Full-Stack projects where I can contribute in both design and developemnt aspect.</strong>
+- 👯 I’m looking to collaborate on <strong>Full-Stack projects where I can contribute in both design and development aspects.</strong>
 - 🤔 I’m looking for help with <strong>open-source contributions</strong>
 - 💬 Ask me about <strong>creating user focused designs</strong>
 - 🌱 I’m currently learning <strong>System Design</strong>
